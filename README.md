@@ -4,7 +4,7 @@
 
 ![Visitas](https://komarev.com/ghpvc/?username=Paulo-Carvalho-ADS&label=Visitas&color=0e75b6&style=flat)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Paulo-Carvalho-ADS&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Paulo-Carvalho-ADS&theme=radical)](https://github.com/Paulo-Carvalho-ADS/github-profile-trophy)
 
 - 🔭 Atualmente trabalhando em **sistemas de automação e gestão em Python (Desktop e Web).**
 
@@ -33,6 +33,6 @@
 
 ### 📊 Minhas Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Carvalho-ADS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Carvalho-ADS)](https://github.com/Paulo-Carvalho-ADS/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo-Carvalho-ADS&show_icons=true&theme=radical)
