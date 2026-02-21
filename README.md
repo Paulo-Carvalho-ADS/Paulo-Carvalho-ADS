@@ -1,36 +1,37 @@
-# Olá! Eu sou o Paulo Amaral Carvalho 👋
+# Olá 👋, eu sou o Paulo Amaral Carvalho
 
-Sou formado em Análise e Desenvolvimento de Sistemas (ADS) e atuo como desenvolvedor com foco em criar soluções eficientes e código limpo. Atualmente, estou expandindo meus conhecimentos com especializações em **Back-end** e **Análise de Dados**, construindo sistemas robustos e extraindo valor de bases de dados.
+### Desenvolvedor focado em Back-end e Análise de Dados 🚀
 
-## 🚀 Sobre Mim
+![Visitas](https://komarev.com/ghpvc/?username=Paulo-Carvalho-ADS&label=Visitas&color=0e75b6&style=flat)
 
-* 🎓 Formado em Análise e Desenvolvimento de Sistemas.
-* 🔭 Me especializando ativamente em **Desenvolvimento Back-end** (Flask/Django) e **Análise de Dados** (Pandas/SQL).
-* 💻 Tenho experiência prática na criação de aplicativos completos, envolvendo desde a Interface Gráfica até a persistência de dados e regras de negócio.
-* 🎯 Meu foco é resolver problemas reais através de automação, APIs e gerenciamento inteligente da informação.
-* 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/paulo-amaral-ads)
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Paulo-Carvalho-ADS&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🛠️ Tecnologias e Ferramentas
+- 🔭 Atualmente trabalhando em **sistemas de automação e gestão em Python (Desktop e Web).**
 
-Aqui estão as tecnologias que domino e as que estou aprimorando atualmente:
+- 🌱 Atualmente aprendendo **SQL, Pandas, Flask e Django.**
 
-**Linguagens:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- 👯 Buscando colaborar em **projetos inovadores em Python e ferramentas de análise de dados.**
 
-**Análise de Dados:**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+- 🤝 Buscando ajuda com **arquitetura Back-end escalável e modelagem avançada de banco de dados.**
 
-**Back-end & Banco de Dados:**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+- 💬 Pergunte-me sobre **Python, criação de interfaces (PyQt5), estruturação de dados (JSON) e lógica de programação.**
 
-**Desenvolvimento Desktop & Ferramentas:**
-![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- 📫 Como me encontrar: **https://www.linkedin.com/in/paulo-amaral-ads/**
 
-## 📊 Minhas Estatísticas
+- ⚡ Fato curioso: **Adoro transformar lógicas complexas e dados bagunçados em soluções limpas e fáceis de usar!**
 
-![Estatísticas do GitHub do Paulo](https://github-readme-stats.vercel.app/api?username=Paulo-Carvalho-ADS&show_icons=true&theme=radical)
+<br>
+
+### 🤝 Conecte-se comigo:
+<p align="left">
+<a href="https://github.com/Paulo-Carvalho-ADS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Paulo-Carvalho-ADS" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paulo-amaral-ads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulo-amaral-ads" height="30" width="40" /></a>
+</p>
+
+### 🛠️ Linguagens e Ferramentas:
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+
+### 📊 Minhas Estatísticas
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=Paulo-Carvalho-ADS&show_icons=true&locale=pt-br&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Paulo-Carvalho-ADS&show_icons=true&locale=pt-br&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
